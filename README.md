@@ -23,13 +23,7 @@ Este repositório reúne um conjunto de notebooks e projetos práticos desenvolv
 * **Ambiente de Desenvolvimento:** Google Colab / Jupyter Notebooks
 * **Principais Bibliotecas:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
----
-
-# 🐍 Linguagem Python no Google Colab
-
-Este repositório reúne um conjunto de notebooks e projetos práticos desenvolvidos em *Python* no ambiente *Google Colab*. O conteúdo abrange desde os fundamentos da linguagem até projetos práticos de Análise de Dados, ETL, Estatística e Dashboards.
-
----
+----
 
 ## 🌐 English Version
 

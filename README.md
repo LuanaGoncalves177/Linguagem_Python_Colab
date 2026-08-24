@@ -27,6 +27,10 @@ Este repositório reúne um conjunto de notebooks e projetos práticos desenvolv
 
 ## 🌐 English Version
 
+# 🐍 Python Language in Google Colab
+
+This repository brings together a set of notebooks and practical projects developed in *Python* using the *Google Colab* environment. The content ranges from language fundamentals to practical projects in Data Analysis, ETL, Statistics, and Dashboards.
+
 ### 📁 Repository Content
 * **Python_Guia_da_linguagem_.ipynb:** Fundamental Python concepts (variables, conditional/repetition structures, lists, dictionaries, and introduction to NumPy).
 * **Python_Análise_de_dados.ipynb:** Data manipulation and exploration using key libraries like `pandas`.

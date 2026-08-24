@@ -25,8 +25,31 @@ Este repositório reúne um conjunto de notebooks e projetos práticos desenvolv
 
 ---
 
-## 🚀 Como Executar
+# 🐍 Linguagem Python no Google Colab
 
-1. Escolha qualquer um dos notebooks `.ipynb` na lista acima e clique nele.
-2. Na parte superior da visualização do arquivo no GitHub, clique no botão **"Open in Colab"**.
-3. O projeto será aberto diretamente no Google Colab pronto para ser executado ou editado.
+Este repositório reúne um conjunto de notebooks e projetos práticos desenvolvidos em *Python* no ambiente *Google Colab*. O conteúdo abrange desde os fundamentos da linguagem até projetos práticos de Análise de Dados, ETL, Estatística e Dashboards.
+
+---
+
+## 🌐 English Version
+
+### 📁 Repository Content
+* **Python_Guia_da_linguagem_.ipynb:** Fundamental Python concepts (variables, conditional/repetition structures, lists, dictionaries, and introduction to NumPy).
+* **Python_Análise_de_dados.ipynb:** Data manipulation and exploration using key libraries like `pandas`.
+* **Análise_de_Scores_de_Clientes.ipynb:** Practical project focused on behavioral analysis and customer metrics.
+* **python_etl.ipynb:** Extract, Transform, Load (ETL) data pipeline.
+* **Python_Desafio_de_Regressão_linear.ipynb:** Application of predictive modeling and statistical regression in Python.
+* **Python_Visualização_&_Dashboars.ipynb:** Creation of visual charts, reports, and interactive dashboards.
+* **Python_Desafios.ipynb:** Practical challenges solved to consolidate learning.
+
+### 🛠️ Technologies & Tools
+* **Language:** Python
+* **Development Environment:** Google Colab / Jupyter Notebooks
+* **Key Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+
+### 🚀 How to Run
+1. Select any `.ipynb` notebook from the list above and click on it.
+2. At the top of the file view on GitHub, click the **"Open in Colab"** button.
+3. The project will open directly in Google Colab, ready to execute or edit.
+
+---
